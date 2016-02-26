@@ -1,9 +1,3 @@
-// Author: Kaylea Box;  Course: COSC 1337 Spring 2016 TT13;  Instructor: Thayer
-// Lab: 3 Purpose: this program will act as s tutor for basic math problems
-//the program will use a sentinel to allow the student to exit the program at any time.
-//the result of the calcultations will not be negative or exceed 100.
-//the program will keep a running total of the number of questions answered
-//correctly and incorrectly
 
 #include <iostream>
 #include<ctime>
